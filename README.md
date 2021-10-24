@@ -37,7 +37,7 @@ Install required dependencies:
 
 ## Data
 
-To use this code you need to download data:
+To use this code you need to download data and specify paths on it:
 
 - Kaggle input data: https://www.kaggle.com/c/hubmap-kidney-segmentation/data
 - 512x512 tiles data: https://www.kaggle.com/iafoss/hubmap-512x512
